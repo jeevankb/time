@@ -46,3 +46,11 @@ Git commit –m “Issue fixed”
 Git diff master issue01
 To merge: $ git checkout master,    $git merge issue01    Git diff master issue01  ( You will see no differences now)
 https://www.youtube.com/watch?v=hufGg2mf7eA
+git config –global user.name “[name]”
+git config –global user.email “[email address]”
+git init [repository name]
+git clone [url] 
+git add [file]  
+git commit -m “[ Type in the commit message]”  
+git commit -a
+git diff

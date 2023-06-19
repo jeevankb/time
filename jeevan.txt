@@ -3,9 +3,9 @@ $ mkdir devops
 $ cd devops
 devops $ git –version
 devops $ git –help
-devops $ git cofig –global user.name "jeevankb"
-devops $ git cofig –global user.email kbjeevanbabu803@gmail.com
-devops $ git cofig –list
+devops $ git config –global user.name "jeevankb"
+devops $ git config –global user.email kbjeevanbabu803@gmail.com
+devops $ git config –list
 devops $ git init
 $ touch master.txt
 $ notepad master.txt

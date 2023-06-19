@@ -54,3 +54,6 @@ git add [file]
 git commit -m “[ Type in the commit message]”  
 git commit -a
 git diff
+
+Jenkins 
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
